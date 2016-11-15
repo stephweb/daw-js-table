@@ -20,3 +20,10 @@ Library JS and CSS to make dinamyque table in Ajax
 * views (Examples of views, how to use them, and what class and id CSS to put ...)
     * index.php : View example is listing view
     * tableList.php : Example of a view to save in a variable in PHP with a buffer, which will be sent to the index.php view in Ajax
+
+
+
+
+
+## An example of an image result:
+![DAW JS Table example](https://www.devandweb.fr/medias/upload/package/daw-js-table-example.png)

@@ -25,4 +25,5 @@ Librairie JS et CSS pour faire des tableaux dinamyques en Ajax
 
 
 
+## Un exemple de résultat en image :
 ![DAW JS Table example](https://www.devandweb.fr/medias/upload/package/daw-js-table-example.png)
