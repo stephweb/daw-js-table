@@ -83,7 +83,7 @@
 
 .out-table-list .top-table-list {
     border-radius: 3px 3px 0 0;
-    height: 36px;
+    height: 40px;
 }
 
 .out-table-list .top-table-list #per-page {
@@ -102,7 +102,7 @@
     height: 24px;
     margin-right: 10px;
     position: relative;
-    bottom: -6px;
+    bottom: -8px;
     padding: 0 4px;
 }
 
