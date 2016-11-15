@@ -20,3 +20,9 @@ Librairie JS et CSS pour faire des tableaux dinamyques en Ajax
 * views (Exemples de vues, comment les utiliser, et quels class et id CSS mettre...)
     * index.php : Exemple de vue est la vue des listing
     * tableList.php : Exemple de vue à enregistrer dans une variable en PHP avec un buffer, qui sera envoyé à la vue index.php en Ajax 
+
+
+
+
+
+![DAW JS Table example](https://www.devandweb.fr/medias/upload/package/daw-js-table-example.png "DAW JS Table example")
