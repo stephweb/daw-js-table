@@ -1,0 +1,197 @@
+/*** Pagination ***/
+.bloc-pagination {
+  margin-top: 40px;
+  margin-bottom:2px;
+  text-align: center;
+}
+
+.bloc-pagination a,
+.bloc-pagination .pagination-active {
+  margin:1px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -o-border-radius: 3px;
+  -ms-border-radius: 3px;
+  border-radius: 3px;
+  outline:none;
+}
+
+.bloc-pagination a {
+  padding:6px;
+  -webkit-box-shadow: 0 0 1px #212121;
+  -moz-box-shadow: 0 0 1px #212121;
+  -o-box-shadow: 0 0 1px #212121;
+  -ms-box-shadow: 0 0 1px #212121;
+  box-shadow: 0 0 1px #212121;
+  background:#212121;
+  color:#fff;
+  text-decoration: none;
+}
+.bloc-pagination a:hover,
+.bloc-pagination .pagination-active {
+  background:#ECEAEA;
+  color:#212121;
+}
+.bloc-pagination .pagination-active {
+  font-weight: bold;
+  padding:7px;
+  -webkit-box-shadow: 0 0 2px #212121;
+  -moz-box-shadow: 0 0 2px #212121;
+  -o-box-shadow: 0 0 2px #212121;
+  -ms-box-shadow: 0 0 2px #212121;
+  box-shadow: 0 0 2px #212121;
+}
+
+/* par page */
+#per-page {
+  margin-top: 28px;
+  text-align: center;
+}
+
+#per-page label {
+  color: #6E6E6F;
+}
+
+#per-page select {
+  background-color: #FAF9F9;
+  padding: 4px;
+  font-size: 0.92em;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 1px 0 #DCDADA, 0 -1px #FAF9F9 inset;
+  -moz-box-shadow: 0 1px 0 #DCDADA, 0 -1px #FAF9F9 inset;
+  box-shadow: 0 1px 0 #DCDADA, 0 -1px #FAF9F9 inset;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  display: inline-block;
+}
+#per-page select:hover {
+  background-color: #ECEAEA;
+  transition: all 0.3s;
+}
+/*** /Pagination ***/
+
+
+/*** Liste <table> ***/
+.out-table-list .top-table-list,
+.out-table-list .bottom-table-list {
+    background: #f6a828 url("../images/ui-bg_gloss-wave_35_f6a828_500x100.png") repeat-x scroll 50% 50%;
+}
+
+.out-table-list .top-table-list {
+    border-radius: 3px 3px 0 0;
+    height: 36px;
+}
+
+.out-table-list .top-table-list #per-page {
+    margin: 0 0 0 6px;
+    width: 130px;
+    float: left;
+    position: relative;
+    bottom: -4px;
+}
+.out-table-list .top-table-list #per-page label {
+    color: #fff;
+}
+
+.out-table-list #search input[type=search] {
+    float: right;
+    height: 24px;
+    margin-right: 10px;
+    position: relative;
+    bottom: -6px;
+    padding: 0 4px;
+}
+
+.out-table-list .table-list {
+    word-wrap: break-word;
+    width: 100%;
+}
+
+.out-table-list .table-list tr th {
+    text-align: left;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 6px 6px;
+    color: #1c94c4;
+}
+
+.out-table-list .table-list tr th[data-orderby] {
+    cursor: pointer;
+}
+.out-table-list .table-list tr th[data-orderby]:hover {
+    box-shadow: 0 0 3px #ccc;
+    transition: box-shadow 0.1s;
+}
+
+.out-table-list .table-list tr th .icon-without-order,
+.out-table-list .table-list tr th .icon-order {
+    margin-left: 4px;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+}
+
+.out-table-list .table-list tr th .icon-without-order {
+    background-image: url("../images/ui-icons_ef8c08_256x240.png");
+    background-position: 0 -16px;
+}
+.out-table-list .table-list tr th .icon-without-order.icon-without-order-2 {
+    background-position: -128px 0;
+}
+
+.out-table-list .table-list tr th .icon-order {
+    background-image: url("../images/ui-icons_ef8c08_256x240.png");
+    background-position: 0 -16px;
+}
+.out-table-list .table-list tr th .icon-order.icon-order-desc {
+    background-position: -64px -16px;
+}
+
+.out-table-list .table-list tr th[data-orderby]:hover .icon-without-order-2 {
+    background-position: 0 -16px;
+}
+
+.out-table-list .table-list tr th:hover .icon-order {
+    background-position: -64px -16px;
+}
+
+.out-table-list .table-list tr th:hover .icon-order-desc {
+    background-position: 0 -16px;
+}
+
+.out-table-list .table-list tr td {
+    padding: 2px 6px;
+}
+
+.out-table-list .table-list tr:nth-child(even) {
+    background: #fff;
+}
+.out-table-list .table-list tr:nth-child(odd) {
+    background: #e2e4ff;
+}
+
+.out-table-list .bottom-table-list {
+    margin-bottom: 10px;
+    border-radius: 0 0 3px 3px;
+    height: 44px;
+    position: relative;
+}
+
+.out-table-list .bottom-table-list .count {
+    color: #fff;
+    position: absolute;
+    top: 11px;
+    bottom: 0;
+    left: 12px;
+}
+
+.out-table-list .bottom-table-list .bloc-pagination {
+    margin: 0;
+    position: relative;
+    bottom: -12px;
+}
+/*** /Liste <table> ***/
