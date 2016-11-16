@@ -68,10 +68,10 @@ function tableList(urlAjax, optionsRequestAjax) {
     $('.out-table-list .pagination-render').off().on('click', '.bloc-pagination a', function(e){
         e.preventDefault();
 
-        if ($(this).attr('data-info') == 'next') {
+        if ($(this).attr('rel') == 'next') {
             var paginationP = $('.out-table-list .pagination-active').html();
             paginationP++;
-        } else if ($(this).attr('data-info') == 'prev') {
+        } else if ($(this).attr('rel') == 'prev') {
             var paginationP = $('.out-table-list .pagination-active').html();
             paginationP--;
         } else {
