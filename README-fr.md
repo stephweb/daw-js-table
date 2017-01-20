@@ -9,20 +9,20 @@ https://www.devandweb.fr/packages/daw-js-table
 
 
 
-## Les sources
+## Guide des sources :
 * assets
-    * css.css : Le CSS de "DAW JS Table"
-    * jquery-1.12.4.min.js : jQuery qui est dépendant au JS de "DAW JS Table"
-    * js.js : Le JavaScript de "DAW JS Table"
+    * css.css : Le CSS de "DAW JS Table".
+    * jquery-1.12.4.min.js : jQuery qui est dépendant au JS de "DAW JS Table".
+    * js.js : Le JavaScript de "DAW JS Table".
 * Controllers
-    * ExampleController.php : Exemples de comment utiliser un Controller avec "DAW JS Table"(exemple de logique...)
+    * ExampleController.php : Exemples de comment utiliser un Controller avec "DAW JS Table"(exemple de logique...).
 * images
-    * toutes les images : Images du Table qui sont dépendante au fichier assets/css.css
+    * Toutes les images : Images du Table qui sont dépendante au fichier assets/css.css.
 * Models
-    * Element.php : Exemple d'un Model qui hérite de l'ORM Elequent
+    * Element.php : Exemple d'un Model qui hérite de l'ORM Elequent.
 * views (Exemples de vues, comment les utiliser, et quels class et id CSS mettre...)
-    * index.php : Exemple de vue est la vue des listing
-    * tableList.php : Exemple de vue à enregistrer dans une variable en PHP avec un buffer, qui sera envoyé à la vue index.php en Ajax 
+    * index.php : Exemple de vue est la vue des listing.
+    * tableList.php : Exemple de vue à enregistrer dans une variable en PHP avec un buffer, qui sera envoyé à la vue index.php en Ajax.
 
 
 
