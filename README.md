@@ -27,3 +27,18 @@ Library JS and CSS to make dinamyque table in Ajax
 
 ## An example of an image result:
 ![DAW JS Table example](https://www.devandweb.fr/medias/upload/package/daw-js-table-example.png)
+
+
+
+
+
+## Bugs and security Vulnerabilities
+If you discover a bug or a security vulnerability within DAW JS Table, please send a message to Steph. Thank you.
+All bugs and all security vulnerabilities will be promptly addressed.
+
+
+
+
+
+## License
+The DAW JS Table is Open Source software licensed under the MIT license.
