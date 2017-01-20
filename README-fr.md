@@ -1,6 +1,9 @@
 # DAW JS Table
 
-Librairie JS et CSS pour faire des tableaux dinamyques en Ajax
+Simple librairie JS et CSS pour générer  des tableaux dynamiques en Ajax avec une pagination, un par page, un order by, un moteur de recherche interne.
+
+### Documentation complète :
+https://www.devandweb.fr/packages/daw-js-table
 
 
 
