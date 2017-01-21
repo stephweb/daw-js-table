@@ -21,14 +21,13 @@ class ExampleController
      */
     private $count;
 
-
     /**
      * Return vue - Layout + vue à insérer à l'intérieur
      *
      * @param string $view - Classe View à charger
      * @param array $data - Pour renvoyer éventuels données à la vue
      */
-    private function view($view, array $data=[])
+    private function view($view, array $data = [])
     {
         if ($data) extract($data);
 
@@ -40,7 +39,6 @@ class ExampleController
 
         exit();
     }
-
     
     /********** Listing **********/
     /**
@@ -50,7 +48,6 @@ class ExampleController
     {
         return $this->view('index');
     }
-
 
     /**
      * Récupérer la liste des éléments avec Ajax
@@ -74,7 +71,6 @@ class ExampleController
             'orderby' => ['orderby'=>'name', 'order'=>'ASC'],    // n'est pas obligatoire. utilie pour le style du <th>
         ]);
     }
-
 
     /**
      * @return Element - éléments selon éventuels paramétres passés en GET
@@ -111,5 +107,4 @@ class ExampleController
             ->get();
     }
     /********** /Listing **********/
-
 }
