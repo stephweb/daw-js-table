@@ -29,13 +29,13 @@
     <script type="text/javascript">
         $(document).ready(function(){
             /**
-             * Le 1er paramètre est obligatoire (string - URL où faire la requète Ajax)
-             * Le 2ème paramètres est optionel (object - éventuels paramètres à ajouter aux données à envoyer en GET en Ajax)
+             * Le 1er paramÃ¨tre est obligatoire (string - URL oÃ¹ faire la requÃ¨te Ajax)
+             * Le 2Ã¨me paramÃ¨tres est optionel (object - Ã©ventuels paramÃ¨tres Ã  ajouter aux donnÃ©es Ã  envoyer en GET en Ajax)
              */
             tableList('articles/index_with_ajax'/*, getOptions()*/);
 
             /**
-             * En option, on peut ajouter des paramètres aux données à envoyer en GET en Ajax
+             * En option, on peut ajouter des paramÃ¨tres aux donnÃ©es Ã  envoyer en GET en Ajax
              */
             /*function getOptions() {
                 var filter1 = $('input[name=filter1]:checked').val();

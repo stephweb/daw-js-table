@@ -17,15 +17,15 @@ class ExampleController
     private $pagination;
 
     /**
-     * @var int - nombre d'éléments selon éventuels paramètres envoyés en GET
+     * @var int - nombre d'Ã©lÃ©ments selon Ã©ventuels paramÃ¨tres envoyÃ©s en GET
      */
     private $count;
 
     /**
-     * Return vue - Layout + vue à insérer à l'intérieur
+     * Return vue - Layout + vue Ã  insÃ©rer Ã  l'intÃ©rieur
      *
-     * @param string $view - Classe View à charger
-     * @param array $data - Pour renvoyer éventuels données à la vue
+     * @param string $view - Classe View Ã  charger
+     * @param array $data - Pour renvoyer Ã©ventuels donnÃ©es Ã  la vue
      */
     private function view($view, array $data = [])
     {
@@ -50,7 +50,7 @@ class ExampleController
     }
 
     /**
-     * Récupérer la liste des éléments avec Ajax
+     * RÃ©cupÃ©rer la liste des Ã©lÃ©ments avec Ajax
      */
     public function indexWithAjax()
     {
@@ -65,7 +65,7 @@ class ExampleController
 
         echo json_encode([
             'table_list' => $tableList,
-            'pagination' => $this->pagination->render(),    // n'est pas obligatoire (est obligatoire seulement si 'per_page' est renseigné)
+            'pagination' => $this->pagination->render(),    // n'est pas obligatoire (est obligatoire seulement si 'per_page' est renseignÃ©)
             'per_page' => $this->pagination->perPage(),    // n'est pas obligatoire
             'count' => $this->count,        // n'est pas obligatoire
             'orderby' => ['orderby'=>'name', 'order'=>'ASC'],    // n'est pas obligatoire. utilie pour le style du <th>
@@ -73,7 +73,7 @@ class ExampleController
     }
 
     /**
-     * @return Element - éléments selon éventuels paramétres passés en GET
+     * @return Element - Ã©lÃ©ments selon Ã©ventuels paramÃ©tres passÃ©s en GET
      */
     private function findElements()
     {

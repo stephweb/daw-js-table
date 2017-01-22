@@ -1,7 +1,7 @@
 /**
- * Traitement d'affichage d'une liste d'éléments selon paramètres envoyés en GET
- * @param urlAjax - URL où faire la requete en Ajax
- * @param optionsRequestAjax - object - paramètres optionel pour ajouter des données à envoyer en GET
+ * Traitement d'affichage d'une liste d'Ã©lÃ©ments selon paramÃ¨tres envoyÃ©s en GET
+ * @param urlAjax - URL oÃ¹ faire la requete en Ajax
+ * @param optionsRequestAjax - object - paramÃ¨tres optionel pour ajouter des donnÃ©es Ã  envoyer en GET
  */
 function tableList(urlAjax, optionsRequestAjax) {
     var search = $('.out-table-list #search input[type=search]').val();
@@ -14,7 +14,7 @@ function tableList(urlAjax, optionsRequestAjax) {
     getList(urlAjax, defaultPaginationP, defaultPaginationPP, search, optionsDataAjax);
 
     /**
-     * Pour éventuellement ajouter un orderby et un order aux données à envoyer en GET
+     * Pour Ã©ventuellement ajouter un orderby et un order aux donnÃ©es Ã  envoyer en GET
      */
     $('.out-table-list').off().on('click', '.table-list th', function(){
         var orderby = $(this).attr('data-orderby');
@@ -103,13 +103,13 @@ function tableList(urlAjax, optionsRequestAjax) {
 
 
 /**
- * Afficher une liste d'éléments selon paramètres envoyés en GET
- * @param urlAjax - URL où faire la requete en Ajax
+ * Afficher une liste d'Ã©lÃ©ments selon paramÃ¨tres envoyÃ©s en GET
+ * @param urlAjax - URL oÃ¹ faire la requete en Ajax
  * @param paginationP - page en cours
- * @param paginationPP - nombre d'éléments par page
+ * @param paginationPP - nombre d'Ã©lÃ©ments par page
  * @param search - si search
- * @param optionsDataAjax - object - pour éventuellement ajouter des données à envoyer en GET
- * @param orderbyAndOrderDataAjax - objet - pour éventuellement ajouter un orderby et order aux données à envoyer en GET
+ * @param optionsDataAjax - object - pour Ã©ventuellement ajouter des donnÃ©es Ã  envoyer en GET
+ * @param orderbyAndOrderDataAjax - objet - pour Ã©ventuellement ajouter un orderby et order aux donnÃ©es Ã  envoyer en GET
  */
 function getList(urlAjax, paginationP, paginationPP, search, optionsDataAjax, orderbyAndOrderDataAjax) {
     var addData = '';
@@ -150,7 +150,7 @@ function getList(urlAjax, paginationP, paginationPP, search, optionsDataAjax, or
             if (data.count != undefined) {
                 $('.out-table-list .bottom-table-list .count').empty();
                 var s = (data.count > 1) ? 's' : '';
-                var elementsFind =  (search !== '' || ifAddDataOtherOrderby != undefined) ? ' trouvé'+s : '';
+                var elementsFind =  (search !== '' || ifAddDataOtherOrderby != undefined) ? ' trouvÃ©'+s : '';
                 $('.out-table-list .bottom-table-list').append('<span class="count">'+data.count+' element'+s+''+elementsFind+'</span>');
             }
 
