@@ -78,7 +78,7 @@
 /*** Liste <table> ***/
 .out-table-list .top-table-list,
 .out-table-list .bottom-table-list {
-    background: #f6a828 url("../images/ui-bg_gloss-wave_35_f6a828_500x100.png") repeat-x scroll 50% 50%;
+    background: #543FF0
 }
 
 .out-table-list .top-table-list {
@@ -136,7 +136,7 @@
 }
 
 .out-table-list .table-list tr th .icon-without-order {
-    background-image: url("../images/ui-icons_ef8c08_256x240.png");
+    background-image: url("../images/ui-icons_228ef1_256x240.png");
     background-position: 0 -16px;
 }
 .out-table-list .table-list tr th .icon-without-order.icon-without-order-2 {
@@ -144,7 +144,7 @@
 }
 
 .out-table-list .table-list tr th .icon-order {
-    background-image: url("../images/ui-icons_ef8c08_256x240.png");
+    background-image: url("../images/ui-icons_228ef1_256x240.png");
     background-position: 0 -16px;
 }
 .out-table-list .table-list tr th .icon-order.icon-order-desc {
