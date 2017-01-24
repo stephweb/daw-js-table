@@ -44,7 +44,7 @@ Package DAW JS Table est une simple librairie en JS et CSS qui permet de génér
 * Models
     * Element.php : Exemple d'un Model qui hérite de l'ORM Elequent.
 * views (Exemples de vues, comment les utiliser, et quels class et id CSS mettre...)
-    * index.php : Exemple de vue est la vue des listing.
+    * index.php : Exemple de vue - Est la vue des listages.
     * tableList.php : Exemple de vue à enregistrer dans une variable en PHP avec un buffer, qui sera envoyé à la vue index.php en Ajax.
 
 

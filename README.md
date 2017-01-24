@@ -24,7 +24,7 @@ https://www.devandweb.fr/packages/daw-js-table
 
 ## Introduction
 
-Package DAW JS Table is simple library JS et CSS which makes it possible to generate dynamic arrays in Ajax with a pagination, per page, order by, internal search engine.
+Package DAW JS Table is simple library JS et CSS which makes it possible to generate dynamic tables in Ajax with a pagination, per page, order by, internal search engine.
 
 
 
@@ -44,7 +44,7 @@ Package DAW JS Table is simple library JS et CSS which makes it possible to gene
 * Models
     * Element.php: Example of a Model that inherits an ORM Eloquent.
 * views (Examples of views, how to use them, and what class and id CSS to put ...)
-    * index.php: View example is listing view.
+    * index.php: View example - Is view of the listings.
     * tableList.php: Example of a view to save in a variable in PHP with a buffer, which will be sent to the index.php view in Ajax.
 
 
