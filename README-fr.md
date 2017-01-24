@@ -2,6 +2,9 @@
 
 Générez facilement des tableaux dynamiques en Ajax !
 
+
+
+
 ### Documentation complète :
 https://www.devandweb.fr/packages/daw-js-table
 

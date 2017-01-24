@@ -2,8 +2,11 @@
 
 Generate easily dynamic tables in Ajax!
 
+
+
+
 ### Full documentation:
-https://www.devandweb.fr/packages/daw-js-table
+https://www.devandweb.com/packages/daw-js-table
 
 
 
