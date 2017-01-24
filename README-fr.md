@@ -65,7 +65,7 @@ Package DAW JS Table est une simple librairie en JS et CSS qui permet de génér
 
 ### Bugs et vulnérabilités de sécurité
 
-Si vous découvrez un bug ou une faille de sécurité au sein de DAW JS Table, s'il vous plaît envoyer message à Steph. Merci.
+Si vous découvrez un bug ou une faille de sécurité au sein de DAW JS Table, merci d'envoyez message à Steph.
 Toutes les bugs et failles de sécurité seront traitées rapidement.
 
 
