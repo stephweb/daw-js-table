@@ -27,7 +27,7 @@ https://www.devandweb.com/packages/daw-js-table
 
 ## Introduction
 
-Package DAW JS Table is simple library JS et CSS which makes it possible to generate dynamic tables in Ajax with a pagination, per page, order by, internal search engine.
+This Open Source library is simple library JavaScript and CSS which makes it possible to generate dynamic tables in Ajax with a pagination, per page, order by, internal search engine.
 
 
 
