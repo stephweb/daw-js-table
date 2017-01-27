@@ -1,4 +1,4 @@
-# DAW JS Table
+# DAW JS Table - Ajax Tables - JavaScript
 
 Generate easily dynamic tables in Ajax!
 
