@@ -19,7 +19,7 @@ https://www.devandweb.fr/packages/daw-js-table
 
 * [Introduction](#introduction)
 * [Guide des sources](guide-des-sources)
-* [Un exemple de résultat en image](un-exemple-de-resultat-en-image)
+* [Un exemple de résultat en image](un-exemple-de-résultat-en-image)
 * [Contribuer](contribuer)
 
 
