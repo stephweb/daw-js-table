@@ -17,10 +17,10 @@ https://www.devandweb.fr/packages/daw-js-table
 
 ## * Sommaire *
 
-* [Introduction](#introduction)
-* [Guide des sources](#guide-des-sources)
-* [Un exemple de résultat en image](#un-exemple-de-resultat-en-image)
-* [Contribuer](#contribuer)
+* Introduction
+* Guide des sources
+* Un exemple de résultat en image
+* Contribuer
 
 
 
