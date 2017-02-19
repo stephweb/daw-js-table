@@ -1,76 +1,48 @@
 /*** Pagination ***/
-.bloc-pagination {
-  margin-top: 40px;
-  margin-bottom:2px;
-  text-align: center;
+ul.block-pagination {
+    margin: 15px 0 0 0;
 }
 
-.bloc-pagination a,
-.bloc-pagination .pagination-active {
-  margin:1px;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -o-border-radius: 3px;
-  -ms-border-radius: 3px;
-  border-radius: 3px;
-  outline:none;
+ul.block-pagination > li {
+    display: inline-block;
+    margin: 2px;
 }
 
-.bloc-pagination a {
-  padding:6px;
-  -webkit-box-shadow: 0 0 1px #212121;
-  -moz-box-shadow: 0 0 1px #212121;
-  -o-box-shadow: 0 0 1px #212121;
-  -ms-box-shadow: 0 0 1px #212121;
-  box-shadow: 0 0 1px #212121;
-  background:#212121;
-  color:#fff;
-  text-decoration: none;
-}
-.bloc-pagination a:hover,
-.bloc-pagination .pagination-active {
-  background:#ECEAEA;
-  color:#212121;
-}
-.bloc-pagination .pagination-active {
-  font-weight: bold;
-  padding:7px;
-  -webkit-box-shadow: 0 0 2px #212121;
-  -moz-box-shadow: 0 0 2px #212121;
-  -o-box-shadow: 0 0 2px #212121;
-  -ms-box-shadow: 0 0 2px #212121;
-  box-shadow: 0 0 2px #212121;
+ul.block-pagination li a,
+ul.block-pagination li.active {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+    outline:none;
 }
 
-/* par page */
-#per-page {
-  margin-top: 28px;
-  text-align: center;
+ul.block-pagination li a {
+    text-decoration: none;
+    padding: 7px;
+    background: #212121;
+    color: #fff;
+    -webkit-box-shadow: 0 0 1px #212121;
+    -moz-box-shadow: 0 0 1px #212121;
+    -o-box-shadow: 0 0 1px #212121;
+    -ms-box-shadow: 0 0 1px #212121;
+    box-shadow: 0 0 1px #212121;
+}
+ul.block-pagination li a:hover,
+ul.block-pagination li.active {
+    background: #ccc;
+    color: #212121;
 }
 
-#per-page label {
-  color: #6E6E6F;
-}
-
-#per-page select {
-  background-color: #FAF9F9;
-  padding: 4px;
-  font-size: 0.92em;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -o-border-radius: 5px;
-  -ms-border-radius: 5px;
-  border-radius: 5px;
-  -webkit-box-shadow: 0 1px 0 #DCDADA, 0 -1px #FAF9F9 inset;
-  -moz-box-shadow: 0 1px 0 #DCDADA, 0 -1px #FAF9F9 inset;
-  box-shadow: 0 1px 0 #DCDADA, 0 -1px #FAF9F9 inset;
-  border: 1px solid #ccc;
-  cursor: pointer;
-  display: inline-block;
-}
-#per-page select:hover {
-  background-color: #ECEAEA;
-  transition: all 0.3s;
+ul.block-pagination li.active {
+    font-weight: bold;
+    padding: 7px;
+    -webkit-box-shadow: 0 0 2px #212121;
+    -moz-box-shadow: 0 0 2px #212121;
+    -o-box-shadow: 0 0 2px #212121;
+    -ms-box-shadow: 0 0 2px #212121;
+    box-shadow: 0 0 2px #212121;
 }
 /*** /Pagination ***/
 
