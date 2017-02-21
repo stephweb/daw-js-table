@@ -29,6 +29,15 @@ https://www.devandweb.com/packages/daw-js-table
 
 
 
+### Exemple avec Laravel 5
+
+[Exemple avec Laravel 5](https://github.com/stephweb/daw-js-table-with-laravel5-framework)
+
+
+
+
+
+
 ## Bugs and security Vulnerabilities
 
 If you discover a bug or a security vulnerability within DAW PHP Validator, please send a message to Steph. Thank you.

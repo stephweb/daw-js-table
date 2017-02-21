@@ -36,7 +36,7 @@ This Open Source library is simple library JavaScript and CSS which makes it pos
 
 
 
-## Guide to sources in "example" folder
+## Guide to sources of "example" folder
 
 * assets
     * css.css: The "DAW JS Table" CSS.
@@ -68,7 +68,7 @@ This Open Source library is simple library JavaScript and CSS which makes it pos
 
 ### Example with Laravel 5
 
-* [DAW PHP Pagination](https://github.com/stephweb/daw-js-table-with-laravel5-framework)
+[Example with Laravel 5](https://github.com/stephweb/daw-js-table-with-laravel5-framework)
 
 
 
