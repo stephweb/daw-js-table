@@ -11,9 +11,10 @@ DAW JS Table is a Open Source JS and CSS library to generate dynamic tables in A
 
 * The documentation is in folder "docs" of this package:
 
-[French](https://github.com/stephweb/daw-js-table/blob/master/docs/fr/doc.md)
-|
 [English](https://github.com/stephweb/daw-js-table/blob/master/docs/en/doc.md)
+|
+[French](https://github.com/stephweb/daw-js-table/blob/master/docs/fr/doc.md)
+
 
 
 * Package website:
@@ -34,9 +35,9 @@ https://www.devandweb.com/packages/daw-js-table
 
 
 
-### Exemple avec Laravel 5
+### Example with Laravel 5
 
-[Exemple avec Laravel 5](https://github.com/stephweb/daw-js-table-with-laravel5-framework)
+[Example with Laravel 5](https://github.com/stephweb/daw-js-table-with-laravel5-framework)
 
 
 
