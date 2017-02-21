@@ -1,0 +1,169 @@
+/*** Pagination ***/
+ul.block-pagination {
+    margin: 15px 0 0 0;
+}
+
+ul.block-pagination > li {
+    display: inline-block;
+    margin: 2px;
+}
+
+ul.block-pagination li a,
+ul.block-pagination li.active {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+    outline:none;
+}
+
+ul.block-pagination li a {
+    text-decoration: none;
+    padding: 7px;
+    background: #212121;
+    color: #fff;
+    -webkit-box-shadow: 0 0 1px #212121;
+    -moz-box-shadow: 0 0 1px #212121;
+    -o-box-shadow: 0 0 1px #212121;
+    -ms-box-shadow: 0 0 1px #212121;
+    box-shadow: 0 0 1px #212121;
+}
+ul.block-pagination li a:hover,
+ul.block-pagination li.active {
+    background: #ccc;
+    color: #212121;
+}
+
+ul.block-pagination li.active {
+    font-weight: bold;
+    padding: 7px;
+    -webkit-box-shadow: 0 0 2px #212121;
+    -moz-box-shadow: 0 0 2px #212121;
+    -o-box-shadow: 0 0 2px #212121;
+    -ms-box-shadow: 0 0 2px #212121;
+    box-shadow: 0 0 2px #212121;
+}
+/*** /Pagination ***/
+
+
+/*** Liste <table> ***/
+.out-table-list .top-table-list,
+.out-table-list .bottom-table-list {
+    background: #543FF0
+}
+
+.out-table-list .top-table-list {
+    border-radius: 3px 3px 0 0;
+    height: 38px;
+}
+
+.out-table-list .top-table-list #per-page {
+    margin: 0 0 0 6px;
+    width: 130px;
+    float: left;
+    position: relative;
+    bottom: -4px;
+}
+.out-table-list .top-table-list #per-page label {
+    color: #fff;
+}
+
+.out-table-list #search input[type=search] {
+    float: right;
+    height: 24px;
+    margin-right: 10px;
+    position: relative;
+    bottom: -7px;
+    padding: 0 4px;
+}
+
+.out-table-list .table-list {
+    word-wrap: break-word;
+    width: 100%;
+}
+
+.out-table-list .table-list tr th {
+    text-align: left;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 6px 6px;
+    color: #1c94c4;
+}
+
+.out-table-list .table-list tr th[data-orderby] {
+    cursor: pointer;
+}
+.out-table-list .table-list tr th[data-orderby]:hover {
+    box-shadow: 0 0 3px #ccc;
+    transition: box-shadow 0.1s;
+}
+
+.out-table-list .table-list tr th .icon-without-order,
+.out-table-list .table-list tr th .icon-order {
+    margin-left: 4px;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+}
+
+.out-table-list .table-list tr th .icon-without-order {
+    background-image: url("../images/ui-icons_228ef1_256x240.png");
+    background-position: 0 -16px;
+}
+.out-table-list .table-list tr th .icon-without-order.icon-without-order-2 {
+    background-position: -128px 0;
+}
+
+.out-table-list .table-list tr th .icon-order {
+    background-image: url("../images/ui-icons_228ef1_256x240.png");
+    background-position: 0 -16px;
+}
+.out-table-list .table-list tr th .icon-order.icon-order-desc {
+    background-position: -64px -16px;
+}
+
+.out-table-list .table-list tr th[data-orderby]:hover .icon-without-order-2 {
+    background-position: 0 -16px;
+}
+
+.out-table-list .table-list tr th:hover .icon-order {
+    background-position: -64px -16px;
+}
+
+.out-table-list .table-list tr th:hover .icon-order-desc {
+    background-position: 0 -16px;
+}
+
+.out-table-list .table-list tr td {
+    padding: 2px 6px;
+}
+
+.out-table-list .table-list tr:nth-child(even) {
+    background: #fff;
+}
+.out-table-list .table-list tr:nth-child(odd) {
+    background: #e2e4ff;
+}
+
+.out-table-list .bottom-table-list {
+    margin-bottom: 10px;
+    border-radius: 0 0 3px 3px;
+    height: 43px;
+    position: relative;
+}
+
+.out-table-list .bottom-table-list .count {
+    color: #fff;
+    position: absolute;
+    top: 11px;
+    bottom: 0;
+    left: 12px;
+}
+
+.out-table-list .bottom-table-list .bloc-pagination {
+    margin: 0;
+    position: relative;
+    bottom: -12px;
+}
+/*** /Liste <table> ***/
