@@ -17,6 +17,24 @@ DAW JS Table is a Open Source JS and CSS library to generate dynamic tables in A
 
 
 
+
+
+
+### Dependencies
+
+* jQuury >= 1.12
+
+
+
+
+### Documentation
+
+* The documentation is in folder "docs" of this package:
+
+[English](https://github.com/stephweb/daw-js-table/blob/master/docs/en/doc.md)
+|
+[French](https://github.com/stephweb/daw-js-table/blob/master/docs/fr/doc.md)
+
 * Package website:
 
 https://www.devandweb.com/packages/daw-js-table
