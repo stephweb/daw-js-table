@@ -62,9 +62,11 @@ https://www.devandweb.com/packages/daw-js-table
 
 
 
-## Bugs and security Vulnerabilities
+## Contributing
 
-If you discover a bug or a security vulnerability within DAW PHP Validator, please send a message to Steph. Thank you.
+### Bugs and security Vulnerabilities
+
+If you discover a bug or a security vulnerability within DAW JS Table, please send a message to Steph. Thank you.
 All bugs and all security vulnerabilities will be promptly addressed.
 
 
@@ -73,3 +75,11 @@ All bugs and all security vulnerabilities will be promptly addressed.
 ### License
 
 The DAW JS Table is Open Source software licensed under the MIT license.
+
+
+
+
+### Author
+
+Package developed by:
+[Développeur PHP Grenoble](https://www.devandweb.fr)
