@@ -7,7 +7,7 @@ DAW JS Table is a Open Source JS and CSS library to generate dynamic tables in A
 
 
 
-### Author
+## Author
 
 Package developed by:
 [Développeur web Grenoble](https://www.devandweb.fr)
