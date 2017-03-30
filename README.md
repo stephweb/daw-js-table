@@ -31,13 +31,13 @@ DAW JS Table is a Open Source JS and CSS library to generate dynamic tables in A
 
 * The documentation is in folder "docs" of this package:
 
-[English](https://github.com/stephweb/daw-js-table/blob/master/docs/en/doc.md)
+[Documentation](https://github.com/stephweb/daw-js-table/blob/master/docs/doc.md)
+
+* The documentation is also on the website:
+
+[DAW JS Table - English documentation](https://www.devandweb.com/packages/daw-js-table)
 |
-[French](https://github.com/stephweb/daw-js-table/blob/master/docs/fr/doc.md)
-
-* Package website:
-
-[DAW JS Table documentation](https://www.devandweb.com/packages/daw-js-table)
+[DAW JS Table - French documentation](https://www.devandweb.fr/packages/daw-js-table)
 
 
 
