@@ -69,4 +69,4 @@ The DAW JS Table is Open Source software licensed under the MIT license.
 ### Author
 
 Package developed by:
-[Développeur web de Grenoble](https://www.devandweb.fr)
+[Développeur web Grenoble](https://www.devandweb.fr)
