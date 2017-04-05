@@ -46,7 +46,7 @@ This Open Source library is simple library JavaScript and CSS which makes it pos
 * Controllers
     * ExampleController.php: Example of how to use a Controller with "DAW JS Table" (example of logic...).
 * images
-    * All images: Table images that are dependent on the assets/css.css file.
+    * the image: Image which is dependent the assets/css.css file.
 * Models
     * Element.php: Example of a Model that inherits an ORM Eloquent.
 * views (Examples of views, how to use them, and what class and id CSS to put...)
