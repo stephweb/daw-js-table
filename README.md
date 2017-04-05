@@ -29,7 +29,7 @@ Package developed by:
 
 [English](https://github.com/stephweb/daw-js-table/blob/master/docs/en/doc.md)
 |
-[French](https://github.com/stephweb/daw-js-table/blob/master/docs/en/doc.md)
+[French](https://github.com/stephweb/daw-js-table/blob/master/docs/fr/doc.md)
 
 
 
