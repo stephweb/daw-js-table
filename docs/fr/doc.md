@@ -80,7 +80,7 @@ Cette librairie Open Source est une simple bibliothèque JavaScript et CSS qui p
 
 ### Bugs et vulnérabilités de sécurité
 
-Si vous découvrez un bug ou une faille de sécurité au sein de DAW PHP ORM, merci d'envoyez message à Steph. Tout les bugs et failles de sécurité seront traitées rapidement.
+Si vous découvrez un bug ou une faille de sécurité au sein de DAW JS Table, merci d'envoyez message à Steph. Tout les bugs et failles de sécurité seront traitées rapidement.
 
 
 
