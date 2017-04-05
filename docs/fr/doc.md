@@ -19,7 +19,7 @@ DAW JS Table est une librairie Open Source JS et CSS pour générer des tableaux
 ## * Sommaire *
 
 * Introduction
-* Guide des sources
+* Guide des sources du dossier "example"
 * Un exemple de résultat en image
 * Contribution
 
