@@ -21,7 +21,7 @@ DAW JS Table est une librairie Open Source JS et CSS pour générer des tableaux
 * Introduction
 * Guide des sources du dossier "exemple"
 * Un exemple de résultat en image
-* Contribution
+* Contribuer
 
 
 
@@ -30,7 +30,7 @@ DAW JS Table est une librairie Open Source JS et CSS pour générer des tableaux
 
 ## Introduction
 
-Cette librairie Open Source est une simple bibliothèque JavaScript et CSS qui permet de générer des tableaux dynamiques en Ajax avec une pagination, un par page, un moteur de recherche interne.
+Cette librairie Open Source est une simple bibliothèque JavaScript et CSS qui permet de générer des tableaux dynamiques en Ajax avec une pagination, un par page et un moteur de recherche interne.
 
 
 
@@ -40,18 +40,18 @@ Cette librairie Open Source est une simple bibliothèque JavaScript et CSS qui p
 ## Guide des sources du dossier "exemple"
 
 * assets
-    * css.css: The "DAW JS Table" CSS.
-    * jquery-1.12.4.min.js: JQuery qui est une dépendance JS de "DAW JS Table".
-    * js.js: The "DAW JS Table" JavaScript.
+    * css.css : The "DAW JS Table" CSS.
+    * jquery-1.12.4.min.js : JQuery qui est une dépendance JS de "DAW JS Table".
+    * js.js : The "DAW JS Table" JavaScript.
 * Controllers
-    * ExampleController.php: Exemple d'utilisation d'un contrôleur avec "DAW JS Table" (exemple de logique...).
+    * ExampleController.php : Exemple d'utilisation d'un contrôleur avec "DAW JS Table" (exemple de logique...).
 * images
-    * All images: Table des images qui dépendent du fichier assets/css.css.
+    * All images : Table des images qui dépendent du fichier assets/css.css.
 * Models
-    * Element.php: Exemple d'un modèle qui hérite d'un ORM Eloquent.
+    * Element.php : Exemple d'un modèle qui hérite d'un ORM Eloquent.
 * views (Des exemples de vues, comment les utiliser, et quelles class et id CSS...)
-    * index.php: View example - Est la vue du listage.
-    * tableList.php: Exemple d'une vue à enregistrer dans une variable en PHP avec un buffer, qui sera envoyé à la vue index.php en Ajax.
+    * index.php : View example - Est la vue du listage.
+    * tableList.php : Exemple d'une vue à enregistrer dans une variable en PHP avec un buffer, qui sera envoyé à la vue index.php en Ajax.
 
 
 
