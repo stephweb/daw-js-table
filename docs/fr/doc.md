@@ -19,7 +19,7 @@ DAW JS Table est une librairie Open Source JS et CSS pour générer des tableaux
 ## * Sommaire *
 
 * Introduction
-* Guide des sources du dossier "example"
+* Guide des sources du dossier "exemple"
 * Un exemple de résultat en image
 * Contribution
 
@@ -37,14 +37,14 @@ Cette librairie Open Source est une simple bibliothèque JavaScript et CSS qui p
 
 
 
-## Guide des sources du dossier "example"
+## Guide des sources du dossier "exemple"
 
 * assets
     * css.css: The "DAW JS Table" CSS.
     * jquery-1.12.4.min.js: JQuery qui est une dépendance JS de "DAW JS Table".
     * js.js: The "DAW JS Table" JavaScript.
 * Controllers
-    * ExampleController.php: Exemple d'utilisation d'un contrôleur avec "DAW JS Table" (example of logic ...).
+    * ExampleController.php: Exemple d'utilisation d'un contrôleur avec "DAW JS Table" (exemple de logique...).
 * images
     * All images: Table des images qui dépendent du fichier assets/css.css.
 * Models

@@ -44,7 +44,7 @@ This Open Source library is simple library JavaScript and CSS which makes it pos
     * jquery-1.12.4.min.js: JQuery which is dependent on the JS of "DAW JS Table".
     * js.js: The "DAW JS Table" JavaScript.
 * Controllers
-    * ExampleController.php: Example of how to use a Controller with "DAW JS Table" (example of logic ...).
+    * ExampleController.php: Example of how to use a Controller with "DAW JS Table" (example of logic...).
 * images
     * All images: Table images that are dependent on the assets/css.css file.
 * Models
