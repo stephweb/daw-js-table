@@ -27,13 +27,9 @@ Package developed by:
 
 * The documentation is in folder "docs" of this package:
 
-[Documentation](https://github.com/stephweb/daw-js-table/blob/master/docs/doc.md)
-
-* The documentation is also on the package website:
-
-[DAW JS Table - English documentation](https://www.devandweb.com/packages/daw-js-table)
+[English](https://github.com/stephweb/daw-js-table/blob/master/docs/en/doc.md)
 |
-[DAW JS Table - French documentation](https://www.devandweb.fr/packages/daw-js-table)
+[French](https://github.com/stephweb/daw-js-table/blob/master/docs/en/doc.md)
 
 
 
