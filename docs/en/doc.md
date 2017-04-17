@@ -1,4 +1,4 @@
-# DAW JS Table
+# DAW JS Table - English documentation
 
 DAW JS Table is a Open Source JS and CSS library to generate dynamic tables in Ajax.
 
