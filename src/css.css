@@ -1,4 +1,11 @@
-/*** Pagination ***/
+/**
+ * @link     https://github.com/stephweb/daw-js-table
+ * @author   stephweb <stephweb@live.fr>
+ * @license  MIT License
+ */
+
+
+ /*** Pagination ***/
 ul.block-pagination {
     margin: 15px 0 0 0;
 }

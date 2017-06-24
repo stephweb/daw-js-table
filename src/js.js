@@ -1,5 +1,13 @@
 /**
+ * @link     https://github.com/stephweb/daw-js-table
+ * @author   stephweb <stephweb@live.fr>
+ * @license  MIT License
+ */
+
+
+ /**
  * Traitement d'affichage d'une liste d'éléments selon paramètres envoyés en GET
+ *
  * @param urlAjax - URL où faire la requete en Ajax
  * @param optionsRequestAjax - object - paramètres optionel pour ajouter des données à envoyer en GET
  */
@@ -104,6 +112,7 @@ function tableList(urlAjax, optionsRequestAjax) {
 
 /**
  * Afficher une liste d'éléments selon paramètres envoyés en GET
+ *
  * @param urlAjax - URL où faire la requete en Ajax
  * @param paginationP - page en cours
  * @param paginationPP - nombre d'éléments par page
