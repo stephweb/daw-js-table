@@ -1,6 +1,6 @@
 /**
  * @link     https://github.com/stephweb/daw-js-table
- * @author   stephweb <stephweb@live.fr>
+ * @author   Stephen Damian <contact@devandweb.fr>
  * @license  MIT License
  */
 
