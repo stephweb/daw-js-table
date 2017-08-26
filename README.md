@@ -58,7 +58,7 @@ Package developed by:
 
 ### Bugs and security Vulnerabilities
 
-If you discover a bug or a security vulnerability within DAW JS Table, please send a message to Steph. Thank you.
+If you discover a bug or a security vulnerability within DAW JS Table, please send a message to Stephen. Thank you.
 All bugs and all security vulnerabilities will be promptly addressed.
 
 
