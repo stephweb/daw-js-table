@@ -60,7 +60,7 @@ Cette librairie Open Source est une simple bibliothèque JavaScript et CSS qui p
 
 ## Un exemple de résultat en image
 
-![DAW JS Table example](https://www.devandweb.fr/medias/upload/package/daw-js-table-example.png)
+![DAW JS Table example](https://www.devandweb.fr/medias/images/packages/daw-js-table-example.png)
 
 
 

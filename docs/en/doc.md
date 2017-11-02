@@ -60,7 +60,7 @@ This Open Source library is simple library JavaScript and CSS which makes it pos
 
 ## An example of an image result
 
-![DAW JS Table example](https://www.devandweb.fr/medias/upload/package/daw-js-table-example.png)
+![DAW JS Table example](https://www.devandweb.fr/medias/images/packages/daw-js-table-example.png)
 
 
 
